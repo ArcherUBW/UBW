@@ -1,0 +1,14 @@
+安装git
+
+git config –global user.name ‘xxxxx’ 
+git config –global user.email ‘xxx@xx.xxx’
+
+ssh-keygen -t rsa -C ‘上面的邮箱’
+
+
+
+git clone 克隆下载文件夹
+
+
+
+安装github pages
